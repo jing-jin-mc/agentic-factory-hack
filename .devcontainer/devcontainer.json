@@ -16,7 +16,6 @@
             "installBicep": true
         },
         "ghcr.io/devcontainer-community/devcontainer-features/astral.sh-uv:1": {},
-        "ghcr.io/dotnet/aspire-devcontainer-feature/dotnetaspire:1": {},
         "ghcr.io/devcontainers/features/docker-in-docker:2": {
             "version": "latest",
             "enableNonRootDocker": "true"
