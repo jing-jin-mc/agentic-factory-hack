@@ -21,7 +21,14 @@ The goals for this challenge are:
 First, we’ll develop an **Anomaly Classification Agent** to interpret detected anomalies and raise corresponding maintenance alerts. Next, we’ll implement a **Fault Diagnosis Agent** to determine the root cause of an anomaly so you can prepare for maintenance. The agents will use a number of different tools to accomplish their tasks.
 
 You will use the Azure resources highlighted in the image below.
-![Challenge 1 Azure Resources](./images/challenge-1-azure-resources.png)
+
+
+
+
+
+<img src="./images/challenge-1-azure-resources.png" alt="Azure Resources" width="60%">
+
+
 
 ### Model Context Protocol (MCP)
 

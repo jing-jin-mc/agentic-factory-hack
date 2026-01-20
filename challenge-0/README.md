@@ -26,7 +26,9 @@ A number of different Azure Resources are used as part of this hackathon.
 
 The following image illustrates the setup:
 
+
 <img src="./images/challenge-0-azure-resources.png" alt="Azure Resources" width="60%">
+
 
 All resources reside in a single resource group.
 
